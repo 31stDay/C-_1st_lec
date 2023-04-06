@@ -1,0 +1,15 @@
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\bin\Debug\net6.0\Example007_Dots.exe
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\bin\Debug\net6.0\Example007_Dots.deps.json
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\bin\Debug\net6.0\Example007_Dots.runtimeconfig.json
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\bin\Debug\net6.0\Example007_Dots.dll
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\bin\Debug\net6.0\Example007_Dots.pdb
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\obj\Debug\net6.0\Example007_Dots.csproj.AssemblyReference.cache
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\obj\Debug\net6.0\Example007_Dots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\obj\Debug\net6.0\Example007_Dots.AssemblyInfoInputs.cache
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\obj\Debug\net6.0\Example007_Dots.AssemblyInfo.cs
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\obj\Debug\net6.0\Example007_Dots.csproj.CoreCompileInputs.cache
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\obj\Debug\net6.0\Example007_Dots.dll
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\obj\Debug\net6.0\refint\Example007_Dots.dll
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\obj\Debug\net6.0\Example007_Dots.pdb
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\obj\Debug\net6.0\Example007_Dots.genruntimeconfig.cache
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example007_Dots\obj\Debug\net6.0\ref\Example007_Dots.dll
