@@ -1,0 +1,15 @@
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\obj\Debug\net6.0\Example005_Favorites.csproj.AssemblyReference.cache
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\obj\Debug\net6.0\Example005_Favorites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\obj\Debug\net6.0\Example005_Favorites.AssemblyInfoInputs.cache
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\obj\Debug\net6.0\Example005_Favorites.AssemblyInfo.cs
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\obj\Debug\net6.0\Example005_Favorites.csproj.CoreCompileInputs.cache
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\bin\Debug\net6.0\Example005_Favorites.exe
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\bin\Debug\net6.0\Example005_Favorites.deps.json
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\bin\Debug\net6.0\Example005_Favorites.runtimeconfig.json
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\bin\Debug\net6.0\Example005_Favorites.dll
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\bin\Debug\net6.0\Example005_Favorites.pdb
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\obj\Debug\net6.0\Example005_Favorites.dll
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\obj\Debug\net6.0\refint\Example005_Favorites.dll
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\obj\Debug\net6.0\Example005_Favorites.pdb
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\obj\Debug\net6.0\Example005_Favorites.genruntimeconfig.cache
+C:\Users\pomar\OneDrive\Рабочий стол\GB_Git\C#\Examples\Example005_Favorites\obj\Debug\net6.0\ref\Example005_Favorites.dll
