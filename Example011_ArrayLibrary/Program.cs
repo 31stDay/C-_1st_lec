@@ -22,7 +22,29 @@ void PrintArray(int[] col)
 
 }
 
+int IndexOf(int[] collection, int find)
+{
+    int count = collection.Length;
+    int index = 0;
+    int position = -1; // it was an invented agreement to use -1 if there is no such elemement
+
+    while (index < count)
+    {
+        if(collection[index] == find)
+        {
+            position = index;
+            break;
+        }
+        index++;
+    }
+    return position;
+}
+
 int[] array = new int[10]; // new construction. It means- create new array with 10 elements by default
 
 FillArray(array);
 PrintArray(array);
+Console.WriteLine();
+
+int pos = IndexOf(array, 44);
+Console.WriteLine(pos);
