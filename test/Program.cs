@@ -1,39 +1,41 @@
-﻿///////////////////////////////////////////////////////
-// Sorting algorithms
-// Selection sort: finding the maximum and minimum elements
-
-int[] arr = { 1, 5, 4, 3, 2, 6, 7, 1, 1 };
-
-void PrintArray(int[] array)
+﻿int[,] pic = new int[,]
 {
-    int count = array.Length;
-    for (int i = 0; i < count; i++)
-    {
-        Console.Write($"{array[i]} ");
-    }
-    Console.WriteLine();
-}
+    {0, 0, 1, 1, 1, 0, 0},
+    {0, 1, 0, 0, 0, 1, 0},
+    {0, 1, 0, 0, 0, 1, 0},
+    {0, 1, 0, 0, 0, 1, 0},
+    {0, 1, 0, 0, 0, 1, 0},
+    {0, 0, 1, 1, 1, 0, 0},
+};
 
-void SelectionSort(int[] array)
+void PrintImage(int[,] image)
 {
-    for (int i = 0; i < array.Length - 1; i++)
+    for (int i = 0; i < image.GetLength(0); i++)
     {
-        int minPosition = i;
-        for (int j = i + 1; j < array.Length; j++)
+        for (int j = 0; j < image.GetLength(1); j++)
         {
-            if (array[j] < array[minPosition])
-            {
-                minPosition = j;
-            }
+            //Console.Write($"{image[i, j]} ");
+            if (image[i, j] == 0) Console.Write($" ");
+            else Console.Write($"+");
         }
-        int temporary = array[i];
-        array[i] = array[minPosition];
-        array[minPosition] = temporary;
+        Console.WriteLine();
     }
 }
 
+void FillImage(int row, int col)
+{
+    if (pic[row, col] == 0)
+    {
+        pic[row, col] = 1;
+        FillImage(row - 1, col);
+        FillImage(row, col - 1);
+        FillImage(row + 1, col);
+        FillImage(row, col + 1);
+    }
 
-PrintArray(arr);
-SelectionSort(arr);
+}
 
-PrintArray(arr);
+PrintImage(pic);
+Console.WriteLine();
+FillImage(4, 4);
+PrintImage(pic);
